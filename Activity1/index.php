@@ -49,9 +49,9 @@
                <th>Remarks</th>
             </tr>
             <tr>
-               <td>001</th>
-               <td>Alex</th>
-               <td>Passed</th>
+               <td>001</td>
+               <td>Alex</td>
+               <td>Passed</td>
             </tr>
             <tr>
                <td>002</td>
