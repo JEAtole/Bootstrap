@@ -26,19 +26,19 @@
                <th>Remarks</th>
             </tr>
             <tr>
-               <td>001</th>
-               <td>Alex</th>
-               <td>Passed</th>
+               <td>001</td>
+               <td>Alex</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>002</th>
-               <td>Cris</th>
-               <td>Passed</th>
+               <td>002</td>
+               <td>Cris</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>003</th>
-               <td>Jack</th>
-               <td class="danger">Failed</th>
+               <td>003</td>
+               <td>Jack</td>
+               <td class="danger">Failed</td>
             </tr>
          </table>
 
@@ -54,14 +54,14 @@
                <td>Passed</th>
             </tr>
             <tr>
-               <td>002</th>
-               <td>Cris</th>
-               <td>Passed</th>
+               <td>002</td>
+               <td>Cris</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>003</th>
-               <td>Jack</th>
-               <td>Failed</th>
+               <td>003</td>
+               <td>Jack</td>
+               <td>Failed</td>
             </tr>
          </table>
 
@@ -72,19 +72,19 @@
                <th>Remarks</th>
             </tr>
             <tr>
-               <td>001</th>
-               <td>Alex</th>
-               <td>Passed</th>
+               <td>001</td>
+               <td>Alex</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>002</th>
-               <td>Cris</th>
-               <td>Passed</th>
+               <td>002</td>
+               <td>Cris</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>003</th>
-               <td>Jack</th>
-               <td>Failed</th>
+               <td>003</td>
+               <td>Jack</td>
+               <td>Failed</td>
             </tr>
          </table>
 
@@ -95,19 +95,19 @@
                <th>Remarks</th>
             </tr>
             <tr>
-               <td>001</th>
-               <td>Alex</th>
-               <td>Passed</th>
+               <td>001</td>
+               <td>Alex</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>002</th>
-               <td>Cris</th>
-               <td>Passed</th>
+               <td>002</td>
+               <td>Cris</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>003</th>
-               <td>Jack</th>
-               <td>Failed</th>
+               <td>003</td>
+               <td>Jack</td>
+               <td>Failed</td>
             </tr>
          </table>
 
@@ -118,19 +118,19 @@
                <th>Remarks</th>
             </tr>
             <tr>
-               <td>001</th>
-               <td>Alex</th>
-               <td>Passed</th>
+               <td>001</td>
+               <td>Alex</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>002</th>
-               <td>Cris</th>
-               <td>Passed</th>
+               <td>002</td>
+               <td>Cris</td>
+               <td>Passed</td>
             </tr>
             <tr>
-               <td>003</th>
-               <td>Jack</th>
-               <td>Failed</th>
+               <td>003</td>
+               <td>Jack</td>
+               <td>Failed</td>
             </tr>
          </table>
 
@@ -201,5 +201,5 @@
       </div>
 
    </body>
-   </center>
+   
 </html>
